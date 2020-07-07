@@ -40,7 +40,10 @@ module.exports = {
       ],
       '/code/js/': [
         '',
-        'js-overview'
+        'js-overview',
+        'js-other-tools',
+        'js-date-tools',
+        'js-amount-tools'
       ],
       '/code/fishPond/': [
         '',
