@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "dev": "vuepress dev .",
+    "build": "vuepress build ."
+  },
+  "devDependencies": {
+    "less": "^3.9.0",
+    "less-loader": "^5.0.0",
+    "vuepress": "^1.0.2"
+  }
+}
