@@ -79,7 +79,7 @@ article[character='juliet'] {
 ```
 
 ### 颜色
-RGB 颜色值必须使用十六进制记号形式 `#rrggbb` 。不允许使用 rgb() ，带有 alpha 的颜色信息可以使用 rgba() 。使用 rgba() 时每个逗号后必须保留一个空格。
+RGB 颜色值必须使用十六进制记号形式 `#rrggbb` 或者 `#rgb` 。不允许使用 rgb() ，带有 alpha 的颜色信息可以使用 rgba() 。使用 rgba() 时每个逗号后必须保留一个空格。
 示例：
 ```css
 /* good */

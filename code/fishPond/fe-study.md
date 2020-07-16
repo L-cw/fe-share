@@ -24,6 +24,6 @@ HTML5 和 CSS3 现在主流浏览器基本上都支持了，对这块的了解�
 ## 进阶
 学有余力的同学可以关注一下：
 
-对于 JavaScript 来说，ES6 语法也是需要了解的，我们现在在 `Vue` 或者 微信小程序中一般都是采用 ES6 语法进行编写 JS ，ES6 可以让你的 JavaScript 代码写起来更便利，在这里给大家推荐的是深入理解 ES6 这本书 [点击下载《Understanding ECMAScript 6》中文版电子书](https://link.juejin.im/?target=https%3A%2F%2Fwww.gitbook.com%2Fdownload%2Fpdf%2Fbook%2Fsagittarius-rev%2Funderstanding-ecmascript-6-zh-ver)
+对于 JavaScript 来说，ES6 语法也是需要了解的，我们现在在 `Vue` 或者 微信小程序中一般都是采用 ES6 语法进行编写 JS ，ES6 可以让你的 JavaScript 代码写起来更便利，在这里给大家推荐的是深入理解 ES6 这本书
 
 [深入理解ES6-中文版-在线阅读](https://oshotokill.gitbooks.io/understandinges6-simplified-chinese/content/)

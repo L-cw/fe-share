@@ -23,7 +23,7 @@ node v10.13.0  去 [官网](https://nodejs.org/zh-cn/) 下载并安装；
 
 [VS Code 中使用文件模版快速生成文件结构](http://blog.lovem.fun/archives/42/)
 
-## 项目文件目录
+## 项目文件目录介绍
 
 ```bash
 ├── public  
