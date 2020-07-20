@@ -19,7 +19,7 @@ module.exports = {
         ]
       },
       { text: '小程序相关', link: '/code/mini-program/' },
-      { text: 'Github', link: 'https://github.com/wenhai974/BU-fe-docs' },
+      { text: 'Github', link: 'https://github.com/L-cw/fe-share' },
     ],
     sidebar: {
       '/code/standard/': [
