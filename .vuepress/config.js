@@ -1,8 +1,8 @@
 module.exports = {
-  title: '前端资源共享',
-  description: '仅作为组内前端技术记录和总结之用',
+  title: '前端小记',
+  description: '代码写出来是给人看的，附带能在机器上运行',
   head: [
-    ['link', { rel: 'icon', href: '/logo.png' }]
+    ['link', { rel: 'icon', href: '/logo-white.png' }]
   ],
   port: 2333,
   themeConfig: {
@@ -11,14 +11,14 @@ module.exports = {
       { text: '编码规范', link: '/code/standard/' },
       { text: '鱼塘', link: '/code/fishPond/' },
       {
-        text: '代码',
+        text: '代码块',
         items: [
           { text: 'CSS', link: '/code/css/' },
           { text: 'JavaScript', link: '/code/js/' },
           { text: 'Vue 组件', link: '/code/components/' }
         ]
       },
-      { text: '小程序相关', link: '/code/mini-program/' },
+      { text: '微信小程序', link: '/code/mini-program/' },
       { text: 'Github', link: 'https://github.com/L-cw/fe-share' },
     ],
     sidebar: {
