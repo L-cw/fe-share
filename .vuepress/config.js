@@ -6,6 +6,7 @@ module.exports = {
   ],
   port: 2333,
   themeConfig: {
+    lastUpdated: '最新修改时间',
     nav: [
       { text: '首页', link: '/' },
       { text: '编码规范', link: '/code/standard/' },
@@ -47,13 +48,29 @@ module.exports = {
       ],
       '/code/fishPond/': [
         '',
-        'fe-study',
-        'fe-vue-project',
-        'fe-and-dev',
-        'array-about',
-        'Element-UI-Record',
-        'Webpack-Record',
-        'centos-install-python3'
+        {
+          title: '前端学习',
+          children: [
+            'fe-study',
+            'fe-vue-project',
+            'fe-and-dev',
+            'fe-websites'
+          ]
+        },
+        {
+          title: '插件使用记录',
+          children: [
+            'Element-UI-Record',
+            'Webpack-Record'
+          ]
+        },
+        {
+          title: '趣味 JavaScript',
+          path: '/code/fishPond/funny-js',
+          children: [
+            "funny-js/js-map"
+          ]
+        }
       ],
       '/code/components/': [
         '',

@@ -10,5 +10,5 @@ features:
   details: 项目使用 VuePress 搭建
 - title: 展望
   details: 前端要学习的东西太多，愿自己能坚持不懈，砥砺前行
-footer: MIT Licensed | Copyright © 2020-present goodlcw1
+footer: MIT Licensed | Copyright © 2018-present goodlcw1
 ---
