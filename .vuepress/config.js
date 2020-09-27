@@ -59,6 +59,14 @@ module.exports = {
           ]
         },
         {
+          title: '重学前端',
+          path: '/code/fishPond/restudy-fe',
+          children: [
+            "restudy-fe/js-object",
+            "restudy-fe/js-run"
+          ]
+        },
+        {
           title: '插件使用记录',
           children: [
             'Element-UI-Record',
