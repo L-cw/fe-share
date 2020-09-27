@@ -27,7 +27,8 @@ module.exports = {
         'css-standard',
         'js-standard',
         'less-standard',
-        'vue-standard'
+        'vue-standard',
+        'eslint-standard'
       ],
       '/code/css/': [
         '',
