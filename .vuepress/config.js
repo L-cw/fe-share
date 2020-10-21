@@ -68,9 +68,11 @@ module.exports = {
         },
         {
           title: '插件使用记录',
+          path: '/code/fishPond/about-plugin',
           children: [
-            'Element-UI-Record',
-            'Webpack-Record'
+            'about-plugin/Element-UI-Record',
+            'about-plugin/Webpack-Record',
+            'about-plugin/elementui-form-validate'
           ]
         },
         {
