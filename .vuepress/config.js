@@ -67,6 +67,13 @@ module.exports = {
           ]
         },
         {
+          title: 'vue 相关',
+          path: '/code/fishPond/about-vue',
+          children: [
+            "about-vue/vue-list-mixin"
+          ]
+        },
+        {
           title: '插件使用记录',
           path: '/code/fishPond/about-plugin',
           children: [
