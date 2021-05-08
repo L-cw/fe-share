@@ -1,5 +1,6 @@
 ---
 home: true
+blog: true
 heroImage: /logo-black.png
 actionText: 浏览 →
 actionLink: /code/fishPond/

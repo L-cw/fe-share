@@ -1,11 +1,13 @@
 {
   "scripts": {
     "dev": "vuepress dev .",
-    "build": "vuepress build ."
+    "build": "vuepress build .",
+    "eject": "vuepress eject"
   },
   "devDependencies": {
     "less": "^3.9.0",
     "less-loader": "^5.0.0",
-    "vuepress": "^1.5.3"
+    "vuepress": "^1.5.3",
+    "vuepress-theme-hope": "^1.15.3"
   }
 }
