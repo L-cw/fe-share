@@ -1,3 +1,10 @@
+---
+category: standard
+time: 2020-07-07
+tags:
+  - css
+  - standard
+---
 ## CSS 规范 <Badge text="1.0.0"/>
 
 本文档的目标是规范组内代码风格，尽可能的使 同事们的 CSS 代码风格保持一致，容易被理解和被维护。
